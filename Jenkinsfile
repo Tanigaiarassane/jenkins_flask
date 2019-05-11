@@ -19,7 +19,7 @@ node {
          * For this example, we're using a Volkswagen-type approach ;-) */
 
         steps{
-            sh 'echo "Tests passed"'
+            echo "Tests passed"
         }
     }
 
